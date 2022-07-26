@@ -1,3 +1,4 @@
+// 下载这个文件，直接运行 go run download.go 即可
 package main
 
 import (
